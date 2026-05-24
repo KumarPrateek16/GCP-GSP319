@@ -110,7 +110,7 @@ kubectl expose deployment <products-image-name> \
 > Expected output: Both services show `EXTERNAL-IP` — visiting `http://<ORDERS_IP>/api/orders` and `http://<PRODUCTS_IP>/api/products` returns JSON responses
 
 
-![Ordersjson](readme_images/Orders_json.png "Products JSON responses")
+![Ordersjson](readme_images/Products_json.png "Products JSON responses")
 
 
 ![Productsjson](readme_images/Orders_json.png "Orders JSON responses")
