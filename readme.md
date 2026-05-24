@@ -109,8 +109,12 @@ kubectl expose deployment <products-image-name> \
 ```
 > Expected output: Both services show `EXTERNAL-IP` — visiting `http://<ORDERS_IP>/api/orders` and `http://<PRODUCTS_IP>/api/products` returns JSON responses
 
-![Orders-json](GCP-GSP319\readme_images\Orders-json.png"Orders JSON responses")
-![Products-json](GCP-GSP319\readme_images\Orders-json.png"Products JSON responses")
+
+![Ordersjson](readme_images/Orders_json.png "Products JSON responses")
+
+
+![Productsjson](readme_images/Orders_json.png "Orders JSON responses")
+
 
 ### Step 7 - Configure Frontend
 ```bash
@@ -140,9 +144,17 @@ kubectl expose deployment <frontend-image-name> \
 ```
 > Expected output: `DONE` and `SUCCESS` — visiting `http://<FRONTEND_IP>` loads Fancy Store homepage with working Orders and Products pages
 
-![Homepage](GCP-GSP319\readme_images\Homepage.png"HomePage of the site")
-![Products](GCP-GSP319\readme_images\Products.png"Products Page of the site")
-![Orders](GCP-GSP319\readme_images\Orders.png"Orders Page of the site")
+
+
+
+![Homepage](readme_images/Homepage.png "HomePage of the site")
+
+
+![Products](readme_images/Products.png "Products Page of the site")
+
+
+![Orders](readme_images/Orders.png "Orders Page of the site")
+
 
 ---
 
