@@ -1,0 +1,6 @@
+.cache/
+.local/
+.npm/
+monolith-to-microservices/react-app/node_modules/
+monolith-to-microservices/monolith/node_modules/
+monolith-to-microservices/microservices/node_modules/
