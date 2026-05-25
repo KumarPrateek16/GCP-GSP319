@@ -1,4 +1,6 @@
-# GSP319 - Build a Website on Google Cloud: Challenge Lab
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+# GSP319 - Build a Website on Google Cloud : Challenge Lab 
+
 
 ## Overview
 
