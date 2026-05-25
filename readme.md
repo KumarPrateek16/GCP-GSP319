@@ -78,7 +78,7 @@ kubectl expose deployment <monolith-image-name> \
 ```
 > Expected output: Service shows `EXTERNAL-IP` assigned — visit `http://<MONOLITH_IP>` and Fancy Store homepage loads successfully
 
-![Homepage](GCP-GSP319\readme_images\Homepage.png"HomePage of the site")
+![Homepage](readme_images/Homepage.png "HomePage of the site")
 
 
 ### Step 5 - Build Microservice Containers
